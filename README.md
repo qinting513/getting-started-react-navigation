@@ -15,3 +15,8 @@ Code for [intro to React Navigation tutorial](https://hackernoon.com/getting-sta
 ## Expo
 
 You can also run this using Expo - check out [this repo](https://github.com/ricbermo/getting-started-react-navigation-expo).
+
+
+使用createBottomTabNavigator, createAppContainer, createStackNavigator进行导航
+github搜索这个库react-native-elements
+把所有的<List>删除掉
